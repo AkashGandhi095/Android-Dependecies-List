@@ -64,7 +64,6 @@ implementation 'androidx.paging:paging-runtime-ktx:3.0.0'
 
 ```
 implementation "androidx.work:work-runtime-ktx:2.7.1"
-
 ```
 
 ## Retrofit 🪐
