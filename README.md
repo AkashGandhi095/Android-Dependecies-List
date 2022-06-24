@@ -83,6 +83,8 @@ implementation "com.squareup.okhttp3:logging-interceptor:$logging_version"
 ```
 implementation 'com.intuit.sdp:sdp-android:1.0.6'
 implementation 'com.intuit.ssp:ssp-android:1.0.6'
+URLs and URLs in angle brackets will automatically get turned into links. 
+[Link to library](https://github.com/intuit/ssp)
 ```
 
 ## Coil - Kotlin Image Loading Library 	🖼️
