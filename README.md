@@ -30,6 +30,10 @@ implementation "androidx.navigation:navigation-ui-ktx:$nav_version"
 ```
 implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-android:1.6.2'
 implementation 'org.jetbrains.kotlinx:kotlinx-coroutines-play-services:1.6.2'
+
+// coroutines with lifeCycle scopes
+implementation 'androidx.lifecycle:lifecycle-runtime-ktx:2.5.1'
+
 ```
 
 ## ViewModel & LiveData 🚀	
